@@ -1,0 +1,33 @@
+
+# ============================================================
+# KeyForge Log-Scrubber — Requirements
+# Privacy-first DevOps Tool
+# By Sudhir Kumar (@SudhirDevOps1)
+# ============================================================
+
+# ────────────────────────────────────────────────────────────
+# NO EXTERNAL DEPENDENCIES REQUIRED!
+#
+# KeyForge Log-Scrubber uses Python Standard Library ONLY.
+# You do NOT need to run: pip install -r requirements.txt
+#
+# Just make sure Python 3.10+ is installed and you are good.
+# ────────────────────────────────────────────────────────────
+
+# Python Version Required:
+#   python >= 3.10
+
+# Standard Library Modules Used (built into Python):
+#   re          — Regex pattern matching engine
+#   sys         — System-level operations, stdout, exit
+#   pathlib     — File path handling (Path object)
+#   argparse    — CLI argument parsing
+#   typing      — Type hints (Iterator, dict, list, etc.)
+#   __future__  — annotations support
+
+# ────────────────────────────────────────────────────────────
+# VERIFY YOUR PYTHON VERSION:
+#
+#   python --version
+#   Expected: Python 3.10.x or higher
+# ────────────────────────────────────────────────────────────
